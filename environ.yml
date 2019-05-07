@@ -1,0 +1,16 @@
+name: NLTKenv
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.7
+- matplotlib
+- numpy
+- pandas
+- scipy
+- seaborn
+- jupyter
+- jupyter_contrib_nbextensions
+- autopep8
+- nltk
+- networkx
